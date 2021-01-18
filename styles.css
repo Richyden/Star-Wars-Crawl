@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body {
-    background: black;
+    background-image: url("images/background.png");
+    background-size: cover;
     color:#ffbe00;
     font-family: sans-serif ;
     font-size:5vw;
